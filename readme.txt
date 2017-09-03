@@ -1,2 +1,2 @@
-Git is a version control system.
-Git is free software.
+wei is a version control system.
+xiao is free software.
